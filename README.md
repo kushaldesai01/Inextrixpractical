@@ -1,6 +1,7 @@
 # Inextrix Practical
 
 To install dependencies: npm install
+
 To run project: npm start
 
 How to access APIs?: First, complete the signup process, then obtain the token by using the same credentials from login API. After that, use the token to access the library routes.
